@@ -6,5 +6,7 @@
 
 Copyright © 2017 Ryan Spangler
 
-Distributed under the Eclipse Public License either version 1.0 or (at
+All code distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
+
+Images All Rights Reserved.
