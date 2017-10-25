@@ -1,7 +1,5 @@
 # metamagicreality
 
-METAMAGICREALITY
-
 ![METAMAGICREALITY](https://github.com/prismofeverything/metamagicreality/blob/master/resources/public/img/metamagicreality.png)
 
 ## License
