@@ -1,0 +1,12 @@
+body {
+#  background: #995533 url(/img/metamagicreality.png) no-repeat center center fixed;
+#  background: #5e2580 url(/img/metamagicreality.png) no-repeat center center fixed;
+#  background: #ad66d5 url(/img/metamagicreality.png) no-repeat center center fixed;
+  background: #7a59aa url(/img/metamagicreality.png) no-repeat center center fixed;
+  background-size: contain;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+}
+
